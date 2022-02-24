@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frederoriz
 - 👀 I’m interested in sci-fi, fantasy, games and learning programing
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML, C++, C and JAVA
 
 - 📫 How to reach me: frederoriz@outlook.com or my instagram @frederoriz
 
