@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @frederoriz
 - 👀 I’m interested in sci-fi, fantasy, games and learning programing
-- 🌱 I’m currently learning HTML and JAVA
+- 🌱 I code in Laravel-PHP, JavaScript, CSS-SCSS and Postgres-SQL
 
-- 📫 How to reach me: frederoriz@outlook.com or my instagram @frederoriz
+- 📫 How to reach me: frederoriz@outlook.com
 
 <!---
 frederoriz/frederoriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
